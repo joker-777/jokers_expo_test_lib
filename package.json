@@ -21,6 +21,7 @@
     ]
   },
   "dependencies": {
+    "@expo/vector-icons": "^12.0.5",
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
@@ -32,5 +33,19 @@
     "@babel/core": "^7.12.9",
     "@react-native-community/bob": "^0.17.1"
   },
-  "private": false
+  "private": false,
+  "description": "Test lib to show that @expo/vector-icons is need in any application which requires it.",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joker-777/jokers_expo_test_lib.git"
+  },
+  "author": "joker777vs.666@gmail.coim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joker-777/jokers_expo_test_lib/issues"
+  },
+  "homepage": "https://github.com/joker-777/jokers_expo_test_lib#readme"
 }
