@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test_lib",
-    "slug": "test_lib",
+    "name": "jokers_expo_test_lib",
+    "slug": "jokers_expo_test_lib",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
