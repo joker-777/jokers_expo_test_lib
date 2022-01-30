@@ -10,6 +10,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "entryPoint": "node_modules/expo/AppEntry.js",
     "updates": {
       "fallbackToCacheTimeout": 0
     },
